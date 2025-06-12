@@ -34,5 +34,6 @@ Visit: [http://localhost:3000](http://localhost:3000)
 - Scroll animations and transitions
 - Deploy publicly to Vercel
 
-## 📝 License
-This project is licensed under the [MIT License](./LICENSE).
+## License
+All rights reserved. This project is proprietary and not licensed for distribution, modification, or reuse. Please contact [amaanomo](https://github.com/amaanomo) for permission inquiries.
+
