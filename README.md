@@ -2,7 +2,7 @@
 
 > AI-powered job matching platform landing page, built with **Next.js** and **Tailwind CSS**.
 
-![Matchy AI Landing Page](./matchy-landing.png)
+![Matchy AI Landing Page](./matchyailanding.png)
 
 ---
 
