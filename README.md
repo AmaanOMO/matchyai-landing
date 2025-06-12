@@ -1,50 +1,42 @@
-# 🧠 Matchy AI – Landing Page
+# Matchy AI – Landing Page
 
-> AI-powered job matching platform landing page, built with **Next.js** and **Tailwind CSS**.
+![Matchy AI Landing Page Screenshot](./matchyailanding.png)
 
-![Matchy AI Landing Page](./matchyailanding.png)
+> **Live Preview:** Coming soon on [matchyai.org](https://matchyai.org)
 
----
+A responsive, clean, and modern landing page for Matchy AI — a job matching platform that analyzes resumes and shows users high-fit job opportunities, explaining exactly why they’re a match.
 
-## 📌 About This Project
+## ✨ Features
+- Responsive layout (mobile-first)
+- Animated gradient backgrounds
+- Custom UI components (Buttons, Icons)
+- Sectioned layout: Hero, Features, Explainer, Testimonials, Pricing, Footer
+- Built with [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/)
 
-**Matchy AI** helps job seekers get matched with roles they're truly qualified for — based on resume analysis, job market data, and AI-driven ranking.  
-This landing page is the front-facing site for Matchy’s platform, showcasing features, pricing, testimonials, and a call to action. Full web-app coming soon...
+## 📁 Tech Stack
+- **Framework:** Next.js (Pages Router)
+- **Styling:** Tailwind CSS v3
+- **Icons:** Lucide React
+- **Deployment:** Vercel (optional)
 
-Built using:
-
-- ⚛️ **Next.js** (Pages Router)
-- 🎨 **Tailwind CSS** (v3)
-- 🧱 **Modular React components** (each section is reusable + scoped)
-
----
-
-## 🔍 Features
-
-- Responsive design (mobile-first)
-- Componentized layout (Hero, Features, Pricing, etc.)
-- Reusable `Button` component with variants and sizing
-- Fully styled with Tailwind utility classes
-- Custom color palette and typography theme
-
----
-
-## 🛠️ Stack
-
-| Tech         | Usage                  |
-|--------------|------------------------|
-| Next.js      | React framework        |
-| Tailwind CSS | Utility-first CSS      |
-| Lucide Icons | Iconography            |
-| TypeScript   | Type-safe React code   |
-
----
-
-## 🚀 Local Setup
-
+## 🚀 Getting Started
 ```bash
-git clone https://github.com/your-username/matchyai-landing.git
+git clone https://github.com/amaanomo/matchyai-landing.git
 cd matchyai-landing
 npm install
 npm run dev
 ```
+
+Visit: [http://localhost:3000](http://localhost:3000)
+
+## 📸 Screenshot
+![Matchy AI](./matchyailanding.png)
+
+## 🧠 Future Plans
+- Add form logic to collect emails
+- Hook up signup/authentication flow
+- Scroll animations and transitions
+- Deploy publicly to Vercel
+
+## 📝 License
+This project is licensed under the [MIT License](./LICENSE).
