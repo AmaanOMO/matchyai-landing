@@ -6,19 +6,19 @@
 
 A responsive, clean, and modern landing page for Matchy AI, a job matching platform that analyzes resumes and shows users high-fit job opportunities, explaining exactly why they’re a match.
 
-## ✨ Features
+## Features
 - Responsive layout (mobile-first)
 - Custom UI components (Buttons, Icons)
 - Sectioned layout: Hero, Features, Explainer, Testimonials, Pricing, Footer
 - Built with [Next.js](https://nextjs.org/) and [Tailwind CSS](https://tailwindcss.com/)
 
-## 📁 Tech Stack
+## Tech Stack
 - **Framework:** Next.js (Pages Router)
 - **Styling:** Tailwind CSS v3
 - **Icons:** Lucide React
 - **Future Deployment:** Vercel
 
-## 🚀 Getting Started
+## Getting Started
 ```bash
 git clone https://github.com/amaanomo/matchyai-landing.git
 cd matchyai-landing
@@ -28,7 +28,7 @@ npm run dev
 
 Visit: [http://localhost:3000](http://localhost:3000)
 
-## 🧠 Future Plans
+## Future Plans
 - Add form logic to collect emails
 - Hook up signup/authentication flow
 - Scroll animations and transitions
