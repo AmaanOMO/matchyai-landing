@@ -14,7 +14,7 @@ A responsive, clean, and modern landing page for Matchy AI, a job matching platf
 
 ## Tech Stack
 - **Framework:** Next.js (Pages Router)
-- **Styling:** Tailwind CSS v3
+- **Styling:** Tailwind CSS
 - **Icons:** Lucide React
 - **Future Deployment:** Vercel
 
